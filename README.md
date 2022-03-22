@@ -8,7 +8,7 @@ You can find all my queries **in the .sql files** called *desafio* (which is "ch
 
 
 > FULL LIST OF QUERIES USED IN THE PROJECT
-SELECT, AS, CONCAT, DISTINCT, COUNT, LIMIT, OFFSET, ORDER BY, WHERE, LIKE, IN, BETWEEN, INSERT, UPDATE and DELETE.`
+- SELECT, AS, CONCAT, DISTINCT, COUNT, LIMIT, OFFSET, ORDER BY, WHERE, LIKE, IN, BETWEEN, INSERT, UPDATE and DELETE.`
 
 Since the challenges were very specific, I'm also leaving part of the original README file with the project requirements:
 
