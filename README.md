@@ -7,7 +7,7 @@ To do so, I had to code and combine MySQL queries by using **MySQL Workbench**.
 You can find all my queries **in the .sql files** called *desafio* (which is "challenge" in portuguese).
 
 
-> FULL LIST OF QUERIES USED IN THE PROJECT
+> Full List of Queries Used in the Project
 - SELECT, AS, CONCAT, DISTINCT, COUNT, LIMIT, OFFSET, ORDER BY, WHERE, LIKE, IN, BETWEEN, INSERT, UPDATE and DELETE.`
 
 Since the challenges were very specific, I'm also leaving part of the original README file with the project requirements:
