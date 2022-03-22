@@ -10,6 +10,8 @@ You can find all my queries **in the .sql files** called *desafio* (which is "ch
 > Full List of Queries Used in the Project
 - SELECT, AS, CONCAT, DISTINCT, COUNT, LIMIT, OFFSET, ORDER BY, WHERE, LIKE, IN, BETWEEN, INSERT, UPDATE and DELETE.`
 
+<img src="https://www.linkoficial.com.br/wp-content/uploads/2016/11/MySQL-logo.png" alt="mysql-logo" />
+
 Since the challenges were very specific, I'm also leaving part of the original README file with the project requirements:
 
 ---
